@@ -1,0 +1,12 @@
+{
+  "jsonrpc": "2.0",
+  "id": 2,
+  "method": "tools/call",
+  "params": {
+    "name": "fetch_url",
+    "arguments": {
+      "url": "https://docs.python.org/3/whatsnew/3.14.html",
+      "max_chars": 4000
+    }
+  }
+}
