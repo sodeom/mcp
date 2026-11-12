@@ -3,9 +3,11 @@
   "id": 1,
   "method": "tools/call",
   "params": {
-    "name": "web_search",
+    "name": "search",
     "arguments": {
-      "query": "latest AI model releases this week"
+      "query": "latest AI model releases this week",
+      "page": 1,
+      "language": "en"
     }
   }
 }

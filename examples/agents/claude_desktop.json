@@ -1,7 +1,8 @@
 {
   "mcpServers": {
     "sodeom": {
-      "url": "https://sodeom.com/apis/mcp"
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://sodeom.com/mcp"]
     }
   }
 }

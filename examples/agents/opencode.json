@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "servers": {
+      "sodeom": {
+        "type": "remote",
+        "url": "https://sodeom.com/mcp"
+      }
+    }
+  }
+}

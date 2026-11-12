@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "sodeom": {
+      "type": "http",
+      "url": "https://sodeom.com/mcp"
+    }
+  }
+}
