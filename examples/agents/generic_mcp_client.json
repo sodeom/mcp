@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "sodeom",
+      "transport": "streamable-http",
+      "url": "https://sodeom.com/apis/mcp"
+    }
+  ]
+}
